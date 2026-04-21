@@ -1,6 +1,6 @@
 #ifndef PPCA_SRC_HPP
 #define PPCA_SRC_HPP
-#include math.h
+#include "math.h"
 #include <algorithm>
 #include <cmath>
 
